@@ -9,7 +9,8 @@ const Footer = () => {
                 <div>
                     <h2 className="text-xl font-semibold text-orange-500 mb-4">NCFAWC</h2>
                     <p className="text-sm leading-relaxed">
-                        Nagpur Clearing & Forwarding and Warehouse offers CNF services, cold storage, logistics, distribution, and more with 26+ years of trust and expertise.
+                        Nagpur Clearing & Forwarding and Warehouse offers CNF services, cold storage, logistics, distribution, trading of grains and fuels, and pest control management with 26+ years of trust and expertise.
+
                     </p>
                 </div>
 

@@ -43,7 +43,8 @@ const Hero = () => {
                         <span className="animate-pulse">|</span>
                     </h1>
                     <p className="text-lg mb-8">
-                        With 26+ years of experience, NCFAWC provides complete clearing, forwarding, logistics, cold storage, trading, pest control management, and distribution services across India.
+                        24 Years experience in CnF servics Clearing forwarding ans warehouse CNF with Transportation, Distribution network facility. 20 years of experience in Trading of Grain commodity like Maize, Wheat, Broken rice, and Fuel products like Coal and rice husk.
+                        26 years of Experience Pest control management and Food procesing , Restaurant, Insect attracting Plants, Govt. and Private warehouse fumigation ans Silo fumigation management and Contract services
 
                     </p>
                     <a

@@ -2,7 +2,7 @@ export default function AgroTradingPage() {
     return (
         <section className="py-16 px-4 bg-white">
             <div className="max-w-5xl mx-auto">
-                <h1 className="text-3xl font-bold text-gray-800 mb-6">Agro & Fuel Trading</h1>
+                <h1 className="text-3xl font-bold text-gray-800 mb-6">Agro commodity & Fuel Products Trading</h1>
 
                 <img
                     src="/images/services/trading.jpg"

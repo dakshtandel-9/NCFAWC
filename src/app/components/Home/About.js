@@ -11,8 +11,12 @@ const AboutSection = () => {
                         Established in 2001, Nagpur Clearing & Forwarding and Warehouse (NCFAWC) has over 26 years of experience in delivering end-to-end warehousing, clearing, logistics, trading, pest control management, and distribution solutions across India.
                     </p>
 
-                    <p className="text-gray-700 mb-6">
+                    <p className="text-gray-700 mb-4">
                         From handling FMCG, medical goods, and perishables to custom clearing, cold chain logistics, specialized trading, and pest control operations – we manage every step with precision, quality, and care.
+                    </p>
+
+                    <p className="text-gray-700 mb-6">
+                        Our trading services include commodities such as grain maize, broken rice, wheat, fuel coal, and rice husk. We also specialize in pest control and fumigation management to ensure hygienic and compliant operations across storage and distribution points.
                     </p>
 
                     <ul className="space-y-3 text-gray-700">
