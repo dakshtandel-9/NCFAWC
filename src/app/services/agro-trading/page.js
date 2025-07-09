@@ -12,13 +12,29 @@ export default function AgroTradingPage() {
 
                 <div className="text-lg text-gray-700 space-y-4">
                     <p>
-                        We trade broken rice, maize, wheat, DDGS, rice husk, and coal for use in ethanol plants,
-                        feed mills, and boilers.
+                        Company is also doing the Trading Business of Agro Products like...<br /><br />
+
+                        • Hybrid Maize – For ethanol & feed purpose.<br />
+                        • Broken Rice – For ethanol and feed purpose.<br />
+                        • Wheat – For human consumption.
                     </p>
                     <p>
-                        Our deep supply chain and delivery network ensures reliable transport and handling of
-                        agricultural and industrial fuels.
+                        Company is also doing the Trading Business of...<br /><br />
+
+                        • Maize DDGS – For animal feed & solvent industries.<br />
+                        • Rice DDGS – For animal feed & solvent industries, for ethanol and feed purpose.
                     </p>
+                    <p>
+                        • Rice Husk – For boiler fuel purpose…<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;• Light golden and yellow<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;• Moisture up to 14%<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;• GCV – 3000–3200<br /><br />
+
+                        • Indian Coal – For Indian boiler fuel purpose.<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;• Moisture – 14%<br />
+                        &nbsp;&nbsp;&nbsp;&nbsp;• GCV – 3500–5000
+                    </p>
+
                 </div>
             </div>
         </section>

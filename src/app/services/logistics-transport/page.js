@@ -12,15 +12,21 @@ export default function LogisticsPage() {
 
                 <div className="text-lg text-gray-700 space-y-4">
                     <p>
-                        We manage FMCG logistics including full load, part load, and LCL cargo with real-time tracking.
-                        Our in-house fleet and logistics team ensure daily shipments from all working sites.
+                        • Logistics Operations in FMCG Industry are critical due to high turnover and the need for swift delivery, which need advance logistics planning and transport placement.
                     </p>
+                    <br />
                     <p>
-                        We implement Just-In-Time delivery, drop-shipping models, and ABC inventory analysis for optimized supply.
+                        • For the same, we are having our own fleets and dedicated logistics team setup in all our working sites with daily shipment and timely delivery of stocks to customers.
                     </p>
+                    <br />
                     <p>
-                        Our key goal is sound distribution with live tracking to meet demand efficiently.
+                        • The main purpose to attach logistics is to ensure businesses in the FMCG industry should leverage inventory management techniques such as just-in-time, drop shipping and ABC analysis, which organises stored goods considering their relevance for the company, their value and their turnover.
                     </p>
+                    <br />
+                    <p>
+                        • We ensure fast and secure delivery with live tracking of goods & sound distribution is today’s first priority to meet customer demand.
+                    </p>
+
                 </div>
             </div>
         </section>

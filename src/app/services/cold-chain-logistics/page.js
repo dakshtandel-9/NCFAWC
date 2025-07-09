@@ -18,17 +18,11 @@ export default function ColdChainLogisticsPage() {
 
                 <div className="text-lg text-gray-700 space-y-4">
                     <p>
-                        Cold chain warehouse & reefer logistics is a specialized supply chain process that ensures
-                        temperature-sensitive goods, like pharmaceuticals and food items, are handled and transported
-                        at controlled temperatures to prevent spoilage and maintain product integrity.
-                    </p>
-                    <p>
-                        This involves all stages from manufacturing to delivery — including storage, transportation,
-                        and distribution — and uses advanced technology to maintain the product’s original condition.
-                    </p>
-                    <p>
-                        We provide complete cold chain solutions with proper SOPs for pharmaceutical, dairy, and
-                        food industries, ensuring safety and compliance throughout the process.
+                        Cold Chain Warehouse & Reefer Logistics is a specialized supply chain process that ensures temperature-sensitive goods, like pharmaceuticals and food items, are handled and transported at controlled temperatures to prevent spoilage of shelf life and maintain product integrity.
+                        <br />
+                        It involves all stages from manufacturing to delivery, including storage, transportation, and distribution.
+                        <br />
+                        This is the best way of using technology to provide the products’ complete shelf life, maintaining it at its original origin stage throughout its complete lifecycle — for all kinds of perishable items.
                     </p>
                 </div>
             </div>

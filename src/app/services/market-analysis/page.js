@@ -18,17 +18,21 @@ export default function MarketAnalysisPage() {
 
         <div className="text-lg text-gray-700 space-y-4">
           <p>
-            Our team performs market research and local product demand analysis to design
-            a region-specific product movement and distribution plan.
+            <b>Market Analysis and Marketing Support by CNF</b><br /><br />
+
+            • Market analysis is a detailed assessment of your business's target market and the competitive landscape within a specific industry. This analysis lets you project the success you can expect when you introduce your brand and its products to consumers within the market.<br /><br />
+
+            <b>• Benefits of Market Analysis</b><br />
+            Understand customer behaviour and buying pattern<br />
+            Identify hidden opportunities<br />
+            Understanding which distribution channel works and gives advantage to the brand<br />
+            Understand customer need<br />
+            Gauge the value proposition of the products<br /><br />
+
+            <b>• Marketing Services Support</b><br />
+            Local trader’s details, printing house, no entry in city and other required banners, side hoarding and local marketing support like media house & publicity teams etc.
           </p>
-          <p>
-            We support manufacturers and brand owners with on-ground promotion services like
-            hoardings, banners, print materials, and in-person dealer/trader outreach across India.
-          </p>
-          <p>
-            This helps increase brand visibility, distributor onboarding, and product placement
-            in targeted towns and semi-urban regions.
-          </p>
+
         </div>
       </div>
     </section>

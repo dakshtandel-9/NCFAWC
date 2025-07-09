@@ -12,16 +12,18 @@ export default function FMCGPage() {
 
                 <div className="text-lg text-gray-700 space-y-4">
                     <p>
-                        FMCG storage has high in-and-out activity in warehouse and logistics operations. It involves
-                        efficiently managing the storage, handling, and distribution of products like food items, groceries,
-                        hard goods, and household items.
-                    </p>
-                    <p>
-                        Our infrastructure includes Warehouse Management Systems (WMS), ERP tools, and optimized
-                        layouts to ensure high turnover and timely delivery of stock.
-                    </p>
-                    <p>
-                        NCFAWC ensures proper conditions that meet both Indian and International standards for FMCG warehousing.
+                        FMCG goods & its storage has very high in & out
+                        activity in warehouse and logistics, which involves
+                        efficiently managing the storage, goods handling,
+                        and distribution of products like food products,
+                        Grocery products, hard goods, and household
+                        items. This includes using technologies like WMS
+                        (Warehouse Management Systems), ERP and
+                        optimizing warehouse layout to ensure high turnover
+                        and timely delivery.<br />
+                        We provide complete CNF solutions and strong
+                        services to meet the International market norms and
+                        Indian market acceptability storage conditions.
                     </p>
                 </div>
             </div>

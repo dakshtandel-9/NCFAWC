@@ -12,16 +12,14 @@ export default function MedicalGoodsPage() {
 
                 <div className="text-lg text-gray-700 space-y-4">
                     <p>
-                        Medical equipment and products require delicate handling, hygienic storage, temperature control,
-                        tagging, batch management, and FIFO execution.
+                        Medical equipment and medicinal products require experience in carefully handling the products, storage, tagging, handling movement, temperature, batch record, and final delivery to the customer with complete record of date and expiry.<br />
+                        Complete batch and FIFO system is followed and the SOP of distribution is implemented as per customer guidelines.
                     </p>
+                    <br />
                     <p>
-                        Our warehouse follows standard operating procedures (SOPs) with complete safety norms and reefer
-                        logistics to ensure the best quality delivery.
+                        • We provide intensive care for all precious medical products and medicine handling, and delivery to the customer with complete safety norms, temperature control facility, and reefer logistics to ensure best-in-class product delivery to the customer.
                     </p>
-                    <p>
-                        We maintain expiry records, batch tagging, and full compliance for medical product handling.
-                    </p>
+
                 </div>
             </div>
         </section>

@@ -37,8 +37,8 @@ const services = [
     },
     {
         id: 'custom-clearing',
-        title: 'Custom Clearing',
-        summary: 'Fast and low-cost custom clearing & CHA services across states.',
+        title: 'Fumigation and Pest Control Service. ',
+        summary: 'Our another firm RSMS Pest Control and management is providing the Fumigation and Pest control services.',
         icon: '🧾',
     },
     {
