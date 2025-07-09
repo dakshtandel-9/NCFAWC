@@ -43,9 +43,8 @@ const Hero = () => {
                         <span className="animate-pulse">|</span>
                     </h1>
                     <p className="text-lg mb-8">
-                        With 26+ years of experience, NCFAWC provides complete clearing,
-                        forwarding, logistics, cold storage, and distribution services
-                        across India.
+                        With 26+ years of experience, NCFAWC provides complete clearing, forwarding, logistics, cold storage, trading, pest control management, and distribution services across India.
+
                     </p>
                     <a
                         href="/contact"

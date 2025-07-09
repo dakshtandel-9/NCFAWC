@@ -21,6 +21,7 @@ const Footer = () => {
                         <li><Link href="/about" className="hover:text-orange-400">About</Link></li>
                         <li><Link href="/services" className="hover:text-orange-400">Services</Link></li>
                         <li><Link href="/contact" className="hover:text-orange-400">Contact</Link></li>
+                        <li><Link href="/meetourteam" className="hover:text-orange-400">Meet Our Team</Link></li>
                     </ul>
                 </div>
 
@@ -28,7 +29,8 @@ const Footer = () => {
                 <div>
                     <h3 className="text-lg font-semibold mb-3">Contact</h3>
                     <ul className="text-sm space-y-2">
-                        <li>📍 Gagdish Palace, Gopal Peth, Nagpur, MH</li>
+                        <li>📍 S-12 Ratan Plaza Santra Market, Ghat Rd, behind Nagpur, Nagpur, Maharashtra 440018. <br />
+                            📍 New Khapri, Wardha Road, Nagpur, Maharashtra, 441108</li>
                         <li>📞 7028419769</li>
                         <li>
                             ✉️ <a href="mailto:nagpurcfawarehouse@gmail.com" className="hover:text-orange-400">

@@ -15,12 +15,6 @@ const ContactDetails = () => {
                                 nagpurcfawarehouse@gmail.com
                             </a>
                         </li>
-                        <li>
-                            ✉️ <strong>Alt Email:</strong>{' '}
-                            <a href="mailto:sksinaction@gmail.com" className="text-orange-600 hover:underline">
-                                sksinaction@gmail.com
-                            </a>
-                        </li>
                     </ul>
                 </div>
 
@@ -30,9 +24,6 @@ const ContactDetails = () => {
                     <ul className="text-gray-700 space-y-4 text-sm">
                         <li>
                             🏢 <strong>Main Office:</strong> Gagdish Palace, Gopal Peth, Nagpur, Maharashtra 441102
-                        </li>
-                        <li>
-                            🏢 <strong>Registered Office:</strong> 804, Garnet Tower, New Khapri, Nagpur 441108
                         </li>
                         <li>
                             🏭 <strong>Work Office 1:</strong> Hingna Road, Nagpur

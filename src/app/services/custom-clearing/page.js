@@ -5,7 +5,7 @@ export default function CustomClearingPage() {
                 <h1 className="text-3xl font-bold text-gray-800 mb-6">Fumigation and Pest Control Service. </h1>
 
                 <img
-                    src="/images/services/custom.jpg"
+                    src="/images/services/custom.jpeg"
                     alt="Custom Clearing"
                     className="w-full h-120 object-cover rounded mb-8"
                 />

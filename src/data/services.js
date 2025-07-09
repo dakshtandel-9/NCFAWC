@@ -39,7 +39,7 @@ const services = [
         id: 'custom-clearing',
         title: 'Fumigation and Pest Control Service. ',
         summary: 'Our another firm RSMS Pest Control and management is providing the Fumigation and Pest control services.',
-        icon: '🧾',
+        icon: '❌',
     },
     {
         id: 'market-analysis',

@@ -13,7 +13,6 @@ export default function About() {
             <AboutHero />
             <CompanyHistory />
             <MissionVision />
-            <LeadershipTeam />
             <WhyChooseUs />
             <OurLocations />
             <AboutCTA />
