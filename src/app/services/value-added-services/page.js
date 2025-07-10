@@ -5,7 +5,7 @@ export default function ValueAddedServicesPage() {
                 <h1 className="text-3xl font-bold text-gray-800 mb-6">Value Added Services</h1>
 
                 <img
-                    src="/images/services/value-added.jpg"
+                    src="/images/04.png"
                     alt="Value Added Services"
                     className="w-full h-120 object-cover rounded mb-8"
                 />

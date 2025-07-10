@@ -18,12 +18,12 @@ export default function CustomClearingPage() {
                         We are 18 years speclist experience in Pest control activities and Govt stock handling and controlling the Infestation and handling the Grain and Food items.
                     </p>
                     <p>
-                        We do the following working in pest Management.<br/>
+                        We do the following working in pest Management.<br />
 
-                        (1) Plant and warehouse rodent and reptiles control management. <br/>
-                        (2) Warehouse stored and eatable products sites and insect attracting products their safety and all fumigation and Pest control management.<br/>
-                        (3) Restaurant and food products processing plant and equipment pest management.<br/>
-                        (4) Ethonal, Beverages, Sugar, Printig press and clothes manufacturer plant pest management.<br/>
+                        (1) Plant and warehouse rodent and reptiles control management. <br />
+                        (2) Warehouse stored and eatable products sites and insect attracting products their safety and all fumigation and Pest control management.<br />
+                        (3) Restaurant and food products processing plant and equipment pest management.<br />
+                        (4) Ethonal, Beverages, Sugar, Printing press and clothes manufacturer plant pest management.<br />
                     </p>
                 </div>
             </div>

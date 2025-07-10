@@ -1,33 +1,34 @@
 const team = [
     {
         name: 'Shivani Sharma',
-        role: 'Managing Director & Proprietor',
+        role: 'Managing Director – Nagpur Clearing & Forwarding and Warehouse (CNF)',
         location: 'Nagpur, Maharashtra',
         since: 'Since 2003',
-        image: '/images/team/shivani.jpg', // Replace with actual image
+        image: '/images/team/shivani.jpg',
     },
     {
         name: 'S K Sharma',
-        role: 'Director & Business Consultant',
+        role: 'Director – Shri Madhav CFA, RSMS Pest Control Management, and Nagpur Clearing & Forwarding and Warehouse (CNF)',
         location: 'Nagpur, Maharashtra',
         since: 'Since 2003',
         image: '/images/team/sksharma.jpg',
     },
     {
-        name: 'S K Chandershaker',
-        role: 'Proprietor – Shri Madhav CFA',
+        name: 'S K Chandran',
+        role: 'Head Consultant – Business Group',
         location: 'Nagpur',
         since: 'Since 2001',
         image: '/images/team/chandershaker.jpg',
     },
     {
         name: 'Rajeev Sen',
-        role: 'Managing Director – RSMS Pest Services',
+        role: 'Director – Shri Madhav CFA, RSMS Pest Control Management, and Nagpur Clearing & Forwarding and Warehouse (CNF)',
         location: 'Nagpur',
         since: 'Since 1995',
         image: '/images/team/rajeev.jpg',
-    },
-];
+    }
+]
+
 
 const TeamSection = () => {
     return (
