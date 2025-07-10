@@ -43,9 +43,8 @@ const Hero = () => {
                         <span className="animate-pulse">|</span>
                     </h1>
                     <p className="text-lg mb-8">
-                        24 Years experience in CnF servics Clearing forwarding ans warehouse CNF with Transportation, Distribution network facility. 20 years of experience in Trading of Grain commodity like Maize, Wheat, Broken rice, and Fuel products like Coal and rice husk.
-                        26 years of Experience Pest control management and Food procesing , Restaurant, Insect attracting Plants, Govt. and Private warehouse fumigation ans Silo fumigation management and Contract services
-
+                        We are Nagpur based Clearing & Forwarding and Warehouse CNF service provider. With 26 years of experience in Clearing and Forwarding with strong logistics and Product supply chain and Distribution network. Also the Group is intoTrading of Agri commodity like Wheat, Maize, Broken rice and Fuel products like Indian Coal and Rice Husk for Boiler use.
+                        We are giving best of service to our Prestigious clients as per customized requirements by clients. Welcome to NCFAWCNF
                     </p>
                     <a
                         href="/contact"
