@@ -3,9 +3,10 @@
 import { useEffect, useState } from "react";
 
 const headings = [
-    "Nagpur Clearing & Forwarding and Warehouse CNF",
-    "RSMS Pest Control Services",
-    "Shri Bajrangbali Rambhakt Trading Company",
+    "NAGPUR CLEARING & FORWARDING WAREHOUSE CNF.",
+    "SHRI BAJRANGBALI RAMBHAKT TRADING COMAPONNY.",
+    "RSMS PEST CONTROL SERVICES MANGEMENT.",
+    "SHRI MADHAV CNF SERVICES."
 ];
 
 const Hero = () => {

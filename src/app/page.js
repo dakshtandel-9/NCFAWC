@@ -6,6 +6,7 @@ import ServicesSection from "./components/Home/ServicesSection";
 import ClientSuccessSection from "./components/Home/ClientSuccessSection";
 import TestimonialsSection from "./components/Home/TestimonialsSection";
 import ServicesPage from "./services/ServicesPage";
+import WhyChooseUs from "./components/About/WhyChooseUs";
 
 export default function Home() {
   return (
@@ -13,7 +14,8 @@ export default function Home() {
       <Hero />
       <About />
       <ServicesPage />
-      <ClientSuccessSection />
+      {/* <ClientSuccessSection /> */}
+      <WhyChooseUs />
       <TestimonialsSection />
     </div>
   );
