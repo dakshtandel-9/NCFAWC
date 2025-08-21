@@ -1,3 +1,5 @@
+import DownloadPdfButton from "@/app/components/DownloadPdfButton";
+
 export default function CustomClearingPage() {
     return (
         <section className="py-16 px-4 bg-white">
@@ -10,7 +12,7 @@ export default function CustomClearingPage() {
                     className="w-full h-120 object-cover rounded mb-8"
                 />
 
-                <div className="text-lg text-gray-700 space-y-4">
+                <div className="text-lg text-gray-700 space-y-4 pb-10">
                     <p>
                         Our another firm RSMS Pest Control and management is providing the Fumigation and Pest control services to Ethonal, Restaurant, Bags, Shoes , Fabric , Printing Press, Food Processing & Beverage manufacturing, and other industries like FCI and Govt hold stocks.
                     </p>
@@ -26,6 +28,7 @@ export default function CustomClearingPage() {
                         (4) Ethonal, Beverages, Sugar, Printing press and clothes manufacturer plant pest management.<br />
                     </p>
                 </div>
+                <DownloadPdfButton/>
             </div>
         </section>
     );
